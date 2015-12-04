@@ -15,6 +15,8 @@ the eyes.
 This theme uses the new built-in theming support available starting
 with Emacs 24.
 
+This fork makes possibility for switching off/on boldface.
+
 ## Installation
 
 ### Manual
